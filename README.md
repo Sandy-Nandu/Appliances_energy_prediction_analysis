@@ -25,3 +25,14 @@ The dataset contains **19,735 instances with 28 features**, including:
    ```bash
    git clone https://github.com/Sandy-Nandu/Appliances-Energy-Prediction.git
    cd Appliances-Energy-Prediction
+pip install pandas numpy scikit-learn matplotlib seaborn
+
+python appliances_energy_prediction.py
+
+📊 Results
+📌 Mean Squared Error (MSE): xx.xxxx
+📌 R-squared Score (R²): xx.xxxx
+📌 Visualization:
+
+🔗 Project Link
+View on GitHub
